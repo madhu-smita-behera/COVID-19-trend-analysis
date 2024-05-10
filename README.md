@@ -18,16 +18,16 @@ The dataset available is ‘covid19dataset.csv’, which contains 49068 records 
 
 
 The features are:
-	PROVINCE / STATE: state name
-	COUNTRY / REGION: country name
-	LAT: latitude of the location
-	LONG: longitude of the location
-	DATE: date of the record
-	CONFIRMED: confirmed cases on that day at that location
-	DEATHS: number of deaths on that day
-	RECOVERED: number of recovered cases on that day
-	ACTIVE: number of active cases on that day
-	WHO REGION: which WHO region does that place belong
+1. PROVINCE / STATE: state name
+2. COUNTRY / REGION: country name
+3. LAT: latitude of the location
+4. LONG: longitude of the location
+5. DATE: date of the record
+6. CONFIRMED: confirmed cases on that day at that location
+7. DEATHS: number of deaths on that day
+8. RECOVERED: number of recovered cases on that day
+9. ACTIVE: number of active cases on that day
+10. WHO REGION: which WHO region does that place belong
 
 There are 34404 missing values in the state/province column of the dataset.
 
